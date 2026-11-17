@@ -1,0 +1,12 @@
+[
+  { "id": "mara", "title": "Maasai Mara", "tag": "Big Five Safari", "text": "Great Migration & Big Five across endless golden plains.", "priceUsd": 780, "image": "images/hero/wildlife-masai-mara-kenya.jpg", "link": "packages", "category": "wildlife" },
+  { "id": "amboseli", "title": "Amboseli Park", "tag": "Big Five Safari", "text": "Elephants beneath the snow-capped peak of Kilimanjaro.", "priceUsd": 770, "image": "images/hero/amboseli.jpg", "link": "packages", "category": "wildlife" },
+  { "id": "diani", "title": "Diani Beach", "tag": "Beach Escape", "text": "White sand, turquoise water, and living coral reefs.", "priceUsd": 150, "image": "images/hero/leisure-lodge-resort5.jpg", "link": "packages", "category": "beach" },
+  { "id": "tsavo", "title": "Tsavo East & West", "tag": "Wilderness", "text": "Red elephants, lava flows, and vast untouched wilderness.", "priceUsd": 550, "image": "images/hero/tsavo.jpg", "link": "packages", "category": "wildlife" },
+  { "id": "watamu", "title": "Watamu & Malindi Marine", "tag": "Marine Parks", "text": "Coral gardens, green turtles and vibrant reef snorkeling.", "priceUsd": 300, "image": "images/hero/marine.jpg", "link": "packages", "category": "marine" },
+  { "id": "arabuko", "title": "Arabuko Sokoke", "tag": "Birding Haven", "text": "Endemic bird watching in Africa's largest coastal dry forest.", "priceUsd": 300, "image": "images/hero/arabuko.jpg", "link": "packages", "category": "birding" },
+  { "id": "mida", "title": "Mida Creek", "tag": "Birding Haven", "text": "Mangrove kayaking beneath flocks of migratory birds.", "priceUsd": 350, "image": "images/hero/mida.jpg", "link": "packages", "category": "birding" },
+  { "id": "sheli", "title": "Sheli Beach", "tag": "Beach Escape", "text": "Pristine, secluded shores for ultimate coastal seclusion.", "priceUsd": 350, "image": "images/hero/Kilifi-Bay-Resort.jpg", "link": "packages", "category": "beach" },
+  { "id": "robinson", "title": "Robinson Island", "tag": "Malindi", "text": "Known for large seafood spreads featuring red Robinson crabs, prawns, lobsters, oysters, and coconut rice.", "priceUsd": 115, "image": "images/hero/marafa.avif", "link": "packages", "category": "beach" },
+  { "id": "gede", "title": "Gede Ruins", "tag": "Cultural", "text": "A captivating journey through history and heritage.", "priceUsd": 40, "image": "images/hero/Gede_Museum.webp", "link": "packages", "category": "adventure" }
+]

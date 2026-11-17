@@ -1,0 +1,89 @@
+[
+  {
+    "id": "pkg_mara_3d",
+    "title": "3-Day Maasai Mara Safari",
+    "category": "big5",
+    "duration": 3,
+    "nights": 2,
+    "priceUsd": 1250,
+    "image": "images/hero/wildbeast-migration.jpg",
+    "badge": "Big Five",
+    "summary": "Game drives across the Mara plains, full-board tented camp, and a Maasai village visit.",
+    "days": [
+      { "d": "Day 1", "t": "Nairobi → Maasai Mara. Afternoon game drive." },
+      { "d": "Day 2", "t": "Full-day game drive with picnic lunch in the reserve." },
+      { "d": "Day 3", "t": "Morning game drive, return to Nairobi." }
+    ],
+    "updatedAt": "2025-01-01T00:00:00+03:00"
+  },
+  {
+    "id": "pkg_amboseli_5d",
+    "title": "5-Day Amboseli & Tsavo",
+    "category": "big5",
+    "duration": 5,
+    "nights": 4,
+    "priceUsd": 1980,
+    "image": "images/hero/amboseli.jpg",
+    "badge": "Big Five",
+    "summary": "Elephants beneath Kilimanjaro, then the red dust of Tsavo East and West.",
+    "days": [
+      { "d": "Day 1", "t": "Nairobi → Amboseli, evening game drive." },
+      { "d": "Day 2", "t": "Full-day Amboseli with Kilimanjaro views." },
+      { "d": "Day 3", "t": "Amboseli → Tsavo West, afternoon game drive." },
+      { "d": "Day 4", "t": "Tsavo West → Tsavo East, full-day game drive." },
+      { "d": "Day 5", "t": "Morning game drive, return to Nairobi." }
+    ],
+    "updatedAt": "2025-01-01T00:00:00+03:00"
+  },
+  {
+    "id": "pkg_diani_4d",
+    "title": "4-Day Diani Beach Escape",
+    "category": "beach",
+    "duration": 4,
+    "nights": 3,
+    "priceUsd": 690,
+    "image": "images/hero/leisure-lodge-resort5.jpg",
+    "badge": "Beach",
+    "summary": "White sand, turquoise water and coral reef snorkeling on Kenya's south coast.",
+    "days": [
+      { "d": "Day 1", "t": "Arrive Diani, beach time." },
+      { "d": "Day 2", "t": "Snorkeling at Kisite-Mpunguti Marine Park." },
+      { "d": "Day 3", "t": "Free day — optional kitesurfing or dhow cruise." },
+      { "d": "Day 4", "t": "Departure transfer." }
+    ],
+    "updatedAt": "2025-01-01T00:00:00+03:00"
+  },
+  {
+    "id": "pkg_watamu_marine_3d",
+    "title": "3-Day Watamu Marine Park",
+    "category": "marine",
+    "duration": 3,
+    "nights": 2,
+    "priceUsd": 520,
+    "image": "images/hero/marine.jpg",
+    "badge": "Marine",
+    "summary": "Coral gardens, green turtles, and vibrant reef snorkeling in Watamu.",
+    "days": [
+      { "d": "Day 1", "t": "Arrive Watamu, afternoon reef snorkel." },
+      { "d": "Day 2", "t": "Mida Creek mangrove kayak + turtle watch." },
+      { "d": "Day 3", "t": "Departure." }
+    ],
+    "updatedAt": "2025-01-01T00:00:00+03:00"
+  },
+  {
+    "id": "pkg_birding_2d",
+    "title": "2-Day Arabuko Sokoke Birding",
+    "category": "birding",
+    "duration": 2,
+    "nights": 1,
+    "priceUsd": 340,
+    "image": "images/hero/arabuko.jpg",
+    "badge": "Birding",
+    "summary": "Endemic birding in Africa's largest coastal dry forest with a specialist guide.",
+    "days": [
+      { "d": "Day 1", "t": "Morning forest walk, afternoon Mida Creek." },
+      { "d": "Day 2", "t": "Dawn birding, return." }
+    ],
+    "updatedAt": "2025-01-01T00:00:00+03:00"
+  }
+]

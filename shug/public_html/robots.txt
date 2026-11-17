@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin/
+Disallow: /data/
+Disallow: /includes/
+Disallow: /api/
+Disallow: /send_form.php
+
+Sitemap: https://shugiasafaris.com/sitemap.xml

@@ -1,0 +1,14 @@
+{
+  "packages": {
+    "mara":     { "label": "Maasai Mara (per person / day)",       "usd": 450 },
+    "amboseli": { "label": "Amboseli & Tsavo (per person / day)",  "usd": 780 },
+    "kenya":    { "label": "Mount Kenya (per person / day)",       "usd": 220 },
+    "mid":      { "label": "Mid-Range Lodges (per person / day)",  "usd": 560 },
+    "luxury":   { "label": "Luxury Camps (per person / day)",      "usd": 1240 }
+  },
+  "addons": {
+    "balloon":  { "label": "Hot-air balloon",   "usd": 450 },
+    "transfer": { "label": "Airport transfer",  "usd": 80 },
+    "insurance":{ "label": "Travel insurance",  "usd": 40 }
+  }
+}
